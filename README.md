@@ -1,6 +1,7 @@
-[![Header](https://github.com/LocNguyenPV/LocNguyenPV/blob/26294ecd514324d13f65928b0309e289260c1590/Logo/logo-2.png "Header")](https://codeandbug.hashnode.dev/)
+<img src="https://github.com/LocNguyenPV/LocNguyenPV/blob/26294ecd514324d13f65928b0309e289260c1590/Logo/logo-2.png" width="150px" height="200px">
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LocNguyenPV&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&langs_count=8)
 - 👋 Hi, I’m @LocNguyenPV
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
