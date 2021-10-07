@@ -3,7 +3,7 @@
 --->
 
 <p>
-  <h1 align="left">Hey, Let me introduce myself 👋
+  <h1 align="left">Hey, I am Luke 👋
     
 [![Visits Badge](https://badges.pufler.dev/visits/LocNguyenPV/LocNguyenPV)](https://codeandbug.hashnode.dev/)
 [![Years Badge](https://badges.pufler.dev/years/LocNguyenPV)](https://codeandbug.hashnode.dev/)
@@ -16,7 +16,6 @@
   <img src="https://api.daily.dev/devcards/ee54c9d49fd840958c8cddf43abdc9da.png?r=w2m" width="400" alt="Nguyen Lucky's Dev Card" align="right"/> 
 </a>
 
-**I am Luke**
 - 👀 I’m interested with: 
   - Code 💻
   - Music 🎧
