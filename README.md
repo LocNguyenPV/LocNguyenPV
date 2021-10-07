@@ -3,7 +3,7 @@
 --->
 
 <p>
-  <h1 align="left">Hey, I am Luke 👋
+  <h1 align="left">Hi, I am Luke 👋
     
 [![Visits Badge](https://badges.pufler.dev/visits/LocNguyenPV/LocNguyenPV)](https://codeandbug.hashnode.dev/)
 [![Years Badge](https://badges.pufler.dev/years/LocNguyenPV)](https://codeandbug.hashnode.dev/)
