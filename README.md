@@ -13,7 +13,7 @@
   </h1>
 </p>
 <a href="https://app.daily.dev/lukenguyen">
-  <img src="https://api.daily.dev/devcards/ee54c9d49fd840958c8cddf43abdc9da.png?r=w2m" width="300" alt="Nguyen Lucky's Dev Card" align="right"/> 
+  <img src="https://api.daily.dev/devcards/ee54c9d49fd840958c8cddf43abdc9da.png?r=w2m" width="350" alt="Nguyen Lucky's Dev Card" align="right"/> 
 </a>
 
 **I am Luke**
