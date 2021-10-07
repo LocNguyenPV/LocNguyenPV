@@ -29,14 +29,10 @@
 
 # Git stats
 <p align="center">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=LocNguyenPV&count_private=true&show_icons=true&theme=dracula" align="center"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&layout=compact" align="center"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=LocNguyenPV&count_private=true&show_icons=true&theme=dracula" align="center"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&layout=compact" align="center"/>
 </p>
-<!---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LocNguyenPV&theme=dracula&show_icons=true&card_width=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&layout=compact) 
---->
 # Connect with me: 
 <p >
 <a href="https://codepen.io/nguyn-lc-the-looper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nguyn-lc-the-looper" height="30" width="40" /></a>
@@ -46,6 +42,10 @@
 <a href="https://www.hackerrank.com/locnpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="locnpv" height="30" width="40" /></a>
 </p>
 
+<!---
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LocNguyenPV&theme=dracula&show_icons=true&card_width=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LocNguyenPV&layout=compact) 
+--->
 <!---
 LocNguyenPV/LocNguyenPV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
