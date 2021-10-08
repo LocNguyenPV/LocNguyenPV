@@ -13,7 +13,7 @@
   </h1>
 </p>
 <a href="https://app.daily.dev/lukenguyen">
-  <img src="/devcard.svg" width="400" alt="Nguyen Lucky's Dev Card" align="right"/> 
+  <img src="https://github.com/LocNguyenPV/LocNguyenPV/blob/main/devcard.svg" width="400" alt="Nguyen Lucky's Dev Card" align="right"/> 
 </a>
 
 - 👀 I’m interested with: 
