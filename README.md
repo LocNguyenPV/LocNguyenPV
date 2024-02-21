@@ -12,9 +12,8 @@
 
   </h1>
 </p>
-<a href="https://app.daily.dev/lukenguyen">
-  <img src="https://github.com/LocNguyenPV/LocNguyenPV/blob/main/devcard.svg" width="400" alt="Nguyen Lucky's Dev Card" align="right"/> 
-</a>
+
+<a href="https://app.daily.dev/lukenguyen"><img src="https://api.daily.dev/devcards/v2/YDzMgRBMBinVsCmW5IACP.png?r=769&type=default" width="356" alt="Nguyen Lucky's Dev Card"/></a>
 
 - 👀 I’m interested with: 
 
