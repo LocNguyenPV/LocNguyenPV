@@ -8,7 +8,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/LocNguyenPV/LocNguyenPV)](https://codeandbug.hashnode.dev/)
 [![Years Badge](https://badges.pufler.dev/years/LocNguyenPV)](https://codeandbug.hashnode.dev/)
 [![Repos Badge](https://badges.pufler.dev/repos/LocNguyenPV)](https://codeandbug.hashnode.dev/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/loc-nguyen-phuoc-vinh-a2a6b5137/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukenguyenpv/)
 
   </h1>
 </p>
@@ -47,7 +47,7 @@
 # Connect with me: 
 <p >
 <a href="https://codepen.io/nguyn-lc-the-looper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nguyn-lc-the-looper" height="30" width="40" /></a>
-<a href="https://dev.to/codeandbug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codeandbug" height="30" width="40" /></a>
+<a href="https://dev.to/locnguyenpv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="codeandbug" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/lukenguyenpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loc-nguyen-phuoc-vinh-a2a6b5137" height="30" width="40" /></a>
 <a href="https://fb.com/locnpv.fpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="locnpv.fpt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/locnpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="locnpv" height="30" width="40" /></a>
