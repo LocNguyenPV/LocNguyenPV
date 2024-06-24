@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
+- [Recursion: magic of programming](https://dev.to/locnguyenpv/recursion-magic-of-programming-4ea8)
 - [ACID Transactions](https://dev.to/locnguyenpv/acid-transactions-1ae8)
 - [Google Sheet + Google Drive = 🤯 - Part 2](https://dev.to/locnguyenpv/google-sheet-google-drive-part-2-3aad)
 - [Google Sheet + Google Drive = 🤯 - Part 1](https://dev.to/locnguyenpv/google-sheet-google-drive-part-1-4l3e)
-- [Unreal-CTO: Tech mentor, roadmap guideline, full stack-overflow AI 🤡](https://dev.to/locnguyenpv/unreal-cto-tech-mentor-full-stack-overflow-ai-3ige)
-- [How I implement dev.to API on my website 🤗](https://dev.to/locnguyenpv/how-i-implement-devto-api-on-my-website-2ajk)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
