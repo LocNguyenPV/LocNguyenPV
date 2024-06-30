@@ -1,9 +1,9 @@
 <!---
 <a href="https://codeandbug.hashnode.dev/"><img src="https://github.com/LocNguyenPV/LocNguyenPV/blob/26294ecd514324d13f65928b0309e289260c1590/Logo/logo-2.png"/></a>
 --->
-
+![Header](./github-header-image.png)
 <p>
-  <h1 align="left">Hi, I am Luke 👋
+  <h1 align="left">
     
 [![Visits Badge](https://badges.pufler.dev/visits/LocNguyenPV/LocNguyenPV)](https://codeandbug.hashnode.dev/)
 [![Years Badge](https://badges.pufler.dev/years/LocNguyenPV)](https://codeandbug.hashnode.dev/)
