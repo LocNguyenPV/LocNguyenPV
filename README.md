@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Static in C# - Part 2](https://dev.to/locnguyenpv/static-in-c-part-2-9eo)
 - [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
 - [Recursion: magic of programming](https://dev.to/locnguyenpv/recursion-magic-of-programming-4ea8)
 - [ACID Transactions](https://dev.to/locnguyenpv/acid-transactions-1ae8)
 - [Google Sheet + Google Drive = 🤯 - Part 2](https://dev.to/locnguyenpv/google-sheet-google-drive-part-2-3aad)
-- [Google Sheet + Google Drive = 🤯 - Part 1](https://dev.to/locnguyenpv/google-sheet-google-drive-part-1-4l3e)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
