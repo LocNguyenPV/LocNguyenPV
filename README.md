@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Vibe coding&quot; your first game with AI 😎](https://dev.to/locnguyenpv/vibe-coding-your-first-game-with-ai-20cp)
 - [The Life of a Query in SQL - It&#39;s More Dramatic Than You Think 😨](https://dev.to/locnguyenpv/the-life-of-a-query-in-sql-its-more-dramatic-than-you-think-2ecn)
 - [Abstract &amp; Interface in C#](https://dev.to/locnguyenpv/abstract-interface-in-c-23f2)
 - [Static in C# - Part 2](https://dev.to/locnguyenpv/static-in-c-part-2-9eo)
 - [Static in C# - Part 1](https://dev.to/locnguyenpv/static-in-c-part-1-51h1)
-- [Recursion: magic of programming](https://dev.to/locnguyenpv/recursion-magic-of-programming-4ea8)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
