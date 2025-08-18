@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
 - [Multi-host deployment and management using Portainer](https://dev.to/locnguyenpv/multi-host-deployment-and-management-using-portainer-110l)
 - [Docker-in-Docker &lpar;DinD&rpar;](https://dev.to/locnguyenpv/docker-in-docker-dind-1n18)
 - [Deploy microservice with Docker from scratch - P2](https://dev.to/locnguyenpv/deploy-microservice-with-docker-from-scratch-p2-4hal)
 - [Deploy microservice with Docker from scratch - P1](https://dev.to/locnguyenpv/deploy-microservice-with-docker-from-scratch-p1-46h7)
-- [Install Docker on Linux](https://dev.to/locnguyenpv/install-docker-on-linux-2k1k)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
