@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git - Dev/DevOps best friend](https://dev.to/locnguyenpv/git-devdevops-best-friend-4ji6)
+- [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
 - [Pod - The smallest unit in Kubernetes](https://dev.to/locnguyenpv/pod-the-smallest-unit-in-kubernetes-1d4e)
 - [YAML - Kubernetes &#39;Favorite&#39; Configuration Language](https://dev.to/locnguyenpv/yaml-kubernetes-favorite-configuration-language-1l34)
 - [Kubernetes Architecture Overview](https://dev.to/locnguyenpv/kubernetes-architecture-overview-mll)
-- [Deploy Kubernetes On-Premises From Zero](https://dev.to/locnguyenpv/deploy-kubernetes-on-premises-from-zero-4c2i)
-- [Multi-host deployment and management using Portainer](https://dev.to/locnguyenpv/multi-host-deployment-and-management-using-portainer-110l)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
