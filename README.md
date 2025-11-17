@@ -32,11 +32,11 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pull/Push in DevOps](https://dev.to/locnguyenpv/pullpush-in-devops-49pi)
 - [Git - Dev/DevOps best friend](https://dev.to/locnguyenpv/git-devdevops-best-friend-4ji6)
 - [Introduction to CI/CD](https://dev.to/locnguyenpv/introduction-to-cicd-2nfg)
 - [Pod - The smallest unit in Kubernetes](https://dev.to/locnguyenpv/pod-the-smallest-unit-in-kubernetes-1d4e)
 - [YAML - Kubernetes &#39;Favorite&#39; Configuration Language](https://dev.to/locnguyenpv/yaml-kubernetes-favorite-configuration-language-1l34)
-- [Kubernetes Architecture Overview](https://dev.to/locnguyenpv/kubernetes-architecture-overview-mll)
 <!-- BLOG-POST-LIST:END -->
 
 # Git stats
